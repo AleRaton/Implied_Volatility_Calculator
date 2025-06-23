@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 24 09:50:56 2024
-
-@author: semer
-"""
 
 import numpy as np
 import scipy.stats as stats
